@@ -1,4 +1,4 @@
-# Server Monitoring Stack
+# Scott's Server Monitoring Stack
 Docker compose featuring Grafana, Prometheus, Influxdb2, and Telegraf. Tested and working with the lastest version of Docker compose. This repository is a companion to the offical guide on our website. That is currently a work in progress. This is designed to be envolving repo as I add services and figure out better way to do this. 
 
 **Note:** This is not a secure way to do this. ONLY use this in closed off, private testing enviorments. Eventually, we will add steps for SSL and other security features.
